@@ -41,3 +41,8 @@
 3. **Database: Stores processed sentiment data (e.g., PostgreSQL or MongoDB).**  
 4. **UI: Queries the database/backend to display live metrics.**
 
+## **7\. Low level Design and Component desing**
+
+<img width="1824" height="2336" alt="LLD Diagram" src="https://github.com/user-attachments/assets/d04a96b9-749e-4e98-807c-1e951e163f73" />
+
+
